@@ -175,16 +175,6 @@ I'm always open to discussing **backend architecture**, **DevOps**, **Kubernetes
 
 <div align="center">
 
-### 💭 "Building systems that don't just work—they thrive under pressure."
-
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=SailikSarkar&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7)
-
-</div>
-
----
-
-<div align="center">
-
 **⭐ If you find my work interesting, feel free to star my repos and follow me!**
 
 ![Snake animation](https://raw.githubusercontent.com/SailikSarkar/SailikSarkar/output/github-contribution-grid-snake-dark.svg)
