@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Yo, I'm Sailik Sarkar
+# 👋 Hello, I'm Sailik Sarkar
 
 ### Backend Engineer • DevOps Architect • Infrastructure Specialist
 
