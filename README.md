@@ -16,7 +16,7 @@
 
 ## 🚀 About Me
 
-I build **production-grade infrastructure** that actually stays up. Running a self-hosted **K3s cluster** with **130+ days uptime**, zero downtime deployments, and dual ISP auto-failover (800+150 Mbps) ensuring **99.99% network reliability**[web:2][web:4][web:6].
+I build **production-grade infrastructure** that actually stays up. Running a self-hosted **K3s cluster** with **130+ days uptime**, zero downtime deployments, and dual ISP auto-failover (800+150 Mbps) ensuring **99.99% network reliability** .
 
 - 🔥 **18+ production full-stack apps** live and serving real users
 - ⚡ **4.2TB+ media processed** in the last 18 days with sub-150ms latency
