@@ -61,13 +61,13 @@ Currently building a **DSA Code Execution System** with Docker sandboxing and mu
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 
 ---
-
+<!--
 ## 📊 Contribution Activity
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SailikSarkar&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=00C7B7&line=00C7B7&point=FFFFFF)
 
 ---
-
+-->
 ## 🔥 Featured Production Projects
 
 All systems are **live** and serving real traffic at [sailik.cloud](https://sailik.cloud/) 🚀
@@ -93,7 +93,7 @@ All systems are **live** and serving real traffic at [sailik.cloud](https://sail
 - 🔄 Universal format support with automatic cleanup
 - ⚡ Memory-safe processing with <150ms latency
 
-**Impact:** Processed **4.2+ TB media data** in 18 days • 13,862 pictures • 20,000+ files[web:4][web:6].
+**Impact:** Processed **4.2+ TB media data** in 18 days • 13,862 pictures • 20,000+ files .
 
 ---
 
@@ -106,7 +106,7 @@ All systems are **live** and serving real traffic at [sailik.cloud](https://sail
 - 🏗️ Domain-Driven Design (DDD) architecture
 - 🤖 AI chat integration with media support
 
-**Impact:** High-traffic query handling for hundreds of active users with version-controlled playground[web:2][web:4].
+**Impact:** High-traffic query handling for hundreds of active users with version-controlled playground .
 
 ---
 
@@ -119,7 +119,7 @@ All systems are **live** and serving real traffic at [sailik.cloud](https://sail
 - 📊 Dynamic rate limiting (user/IP-based, endpoint-specific)
 - 🎯 Comprehensive logging and threat detection
 
-**Impact:** Zero security incidents across all production systems • Defends against brute-force, XSS/CSRF, token theft[web:4][web:6].
+**Impact:** Zero security incidents across all production systems • Defends against brute-force, XSS/CSRF, token theft .
 
 ---
 
@@ -132,7 +132,7 @@ All systems are **live** and serving real traffic at [sailik.cloud](https://sail
 - 📊 Real-time execution metrics (memory, CPU, time)
 - 🔄 Async submission tracking with anti-DoS measures
 
-**Impact:** Accurate execution analytics with zero runtime crashes during peak load[web:4][web:6].
+**Impact:** Accurate execution analytics with zero runtime crashes during peak load .
 
 ---
 
@@ -148,17 +148,10 @@ All systems are **live** and serving real traffic at [sailik.cloud](https://sail
 
 ---
 
-## 🎓 Education & Certifications
+## 🎓 Education
 
 **Master of Computer Applications (MCA)**  
 Adamas University, Kolkata, India | 2021 – 2023
-
-**Specialized in:**
-- Kubernetes & Container Orchestration
-- Redis Session Management & Caching
-- Elasticsearch Full-Text Search Optimization
-- Spring Boot Microservices Architecture
-- Infrastructure as Code (IaC)
 
 ---
 
