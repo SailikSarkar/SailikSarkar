@@ -171,13 +171,6 @@ I'm always open to discussing **backend architecture**, **DevOps**, **Kubernetes
 - 📧 Email: sarkarsailik1995@gmail.com
 - 📍 Location: Kolkata, India
 
----
-
-<div align="center">
-
-**⭐ If you find my work interesting, feel free to star my repos and follow me!**
-
-![Snake animation](https://raw.githubusercontent.com/SailikSarkar/SailikSarkar/output/github-contribution-grid-snake-dark.svg)
-
-</div>
+ 
+ 
 
