@@ -2,7 +2,7 @@
 
 # 👋 Hello, I'm Sailik Sarkar
 
-### Backend Engineer • DevOps Architect • Infrastructure Specialist
+### Backend Engineer • DevOps Architect • Infrastructure enthusiast
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-sailik.cloud-00C7B7?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sailik.cloud/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sailiksarkar/)
