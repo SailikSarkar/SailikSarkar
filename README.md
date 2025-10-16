@@ -77,6 +77,7 @@ Currently building a **DSA Code Execution System** with Docker sandboxing and mu
 ## 🔥 Featured Production Projects
 
 All systems are **live** and serving real traffic at [sailik.cloud](https://sailik.cloud/) 🚀
+Full architectural breakdowns and technical PDFs for each project are available at [sailik.cloud](https://sailik.cloud) 📚
 
 ### 🎯 Real-Time Chat & Friendship System
 **Tech Stack:** Spring Boot • Jakarta WebSocket • Redis • Split-JWT
