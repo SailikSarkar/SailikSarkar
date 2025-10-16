@@ -8,7 +8,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sailiksarkar/)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sarkarsailik1995@gmail.com)
 
-<img src="https://komarev.com/ghprofileviews/?username=SailikSarkar&style=for-the-badge&color=brightgreen" alt="Profile Views" />
+<!-- <img src="https://komarev.com/ghprofileviews/?username=SailikSarkar&style=for-the-badge&color=brightgreen" alt="Profile Views" /> -->
 
 </div>
 
