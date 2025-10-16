@@ -151,4 +151,57 @@ All systems are **live** and serving real traffic at [sailik.cloud](https://sail
 ---
 
 ## 📈 Production Metrics (Last 2 Weeks)
+🔥 4.2TB+ Media Data Processed
+⚡ 110ms Average Response Latency
+👥 1K+ Concurrent User Tests Passed
+📸 13,862 Images Processed
+📦 20,000+ Files Handled
+⏰ 130+ Days K3s Uptime (99.99%)
+🚀 Zero Downtime Deployments
+
+
+---
+
+## 🎓 Education & Certifications
+
+**Master of Computer Applications (MCA)**  
+Adamas University, Kolkata, India | 2021 – 2023
+
+**Specialized in:**
+- Kubernetes & Container Orchestration
+- Redis Session Management & Caching
+- Elasticsearch Full-Text Search Optimization
+- Spring Boot Microservices Architecture
+- Infrastructure as Code (IaC)
+
+---
+
+## 📫 Let's Connect
+
+I'm always open to discussing **backend architecture**, **DevOps**, **Kubernetes**, and **scalable system design**.
+
+- 🌐 Portfolio: [sailik.cloud](https://sailik.cloud/)
+- 💼 LinkedIn: [sailiksarkar](https://www.linkedin.com/in/sailiksarkar/)
+- 📧 Email: sarkarsailik1995@gmail.com
+- 📍 Location: Kolkata, India
+
+---
+
+<div align="center">
+
+### 💭 "Building systems that don't just work—they thrive under pressure."
+
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=SailikSarkar&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7)
+
+</div>
+
+---
+
+<div align="center">
+
+**⭐ If you find my work interesting, feel free to star my repos and follow me!**
+
+![Snake animation](https://raw.githubusercontent.com/SailikSarkar/SailikSarkar/output/github-contribution-grid-snake-dark.svg)
+
+</div>
 
