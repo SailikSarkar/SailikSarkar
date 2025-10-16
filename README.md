@@ -145,13 +145,13 @@ Full architectural breakdowns and technical PDFs for each project are available 
 ---
 
 ## 📈 Production Metrics (Last 2 Weeks)
-🔥 4.2TB+ Media Data Processed
-⚡ 110ms Average Response Latency
-👥 1K+ Concurrent User Tests Passed
-📸 13,862 Images Processed
-📦 20,000+ Files Handled
-⏰ 130+ Days K3s Uptime (99.99%)
-🚀 Zero Downtime Deployments
+- 🔥 4.2TB+ Media Data Processed
+- ⚡ 110ms Average Response Latency
+- 👥 1K+ Concurrent User Tests Passed
+- 📸 13,862 Images Processed
+- 📦 20,000+ Files Handled
+- ⏰ 130+ Days K3s Uptime (99.99%)
+- 🚀 Zero Downtime Deployments
 
 
 ---
