@@ -4,7 +4,7 @@
 
 ### Backend Engineer • DevOps Architect • Infrastructure enthusiast
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-sailik.cloud-00C7B7?style=for-the-badge&logo=google-chrome&logoColor=white)](https://portfolio.sailik.cloud/)
+ 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sailiksarkar/)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sarkarsailik1995@gmail.com)
 
@@ -14,7 +14,7 @@
 
 ---
 
-## 🚀 About Me
+## 🚀 About 
 
 I build **production-grade infrastructure** that actually stays up. Running a self-hosted **K3s cluster** with **130+ days uptime**, zero downtime deployments, and dual ISP auto-failover (800+150 Mbps) ensuring **99.99% network reliability** .
 
@@ -76,6 +76,9 @@ Currently building a **DSA Code Execution System** with Docker sandboxing and mu
 -->
 ## 🔥 Featured Production Projects
 
+https://sailik.cloud  is Down for some day . you can visit https://indielink.in/  . Developed and Hosted by me 
+
+
 All systems are **live** and serving real traffic at [sailik.cloud](https://sailik.cloud/) 
 
 Full architectural breakdowns and technical PDFs for each project are available at [sailik.cloud](https://sailik.cloud) �
@@ -85,7 +88,7 @@ Full architectural breakdowns and technical PDFs for each project are available 
 
 - ⚡ Real-time messaging with <100ms latency
 - 🔒 Split-JWT architecture (XSS + CSRF resistant)
-- 📁 Multi-format file sharing up to 300MB with WhatsApp-grade compression
+- 📁 Multi-format file sharing  with WhatsApp-grade compression
 - 👥 Live user presence tracking
 - 🎨 Dual-token system for uninterrupted large file uploads
 
