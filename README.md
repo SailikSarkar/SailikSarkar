@@ -119,12 +119,9 @@ Currently building autonomous AI systems focused on incident reasoning and self-
 -->
 ## 🔥 Featured Production Projects
 
-https://sailik.cloud  is Down for some day . you can visit https://indielink.in/  . Developed and Hosted by me 
+Primary demo currently available at https://indielink.in
 
-
-All systems are **live** and serving real traffic at [sailik.cloud](https://sailik.cloud/) 
-
-Full architectural breakdowns and technical PDFs for each project are available at [sailik.cloud](https://sailik.cloud) �
+Full architectural breakdowns and technical PDFs for each project are available at [portfolio.sailik.cloud](https://portfolio.sailik.cloud)
 
 
 
@@ -137,7 +134,7 @@ Full architectural breakdowns and technical PDFs for each project are available 
 - 👥 Live user presence tracking
 - 🎨 Dual-token system for uninterrupted large file uploads
 
-**Impact:** Handles concurrent users with seamless media processing across jpg, png, zip, ts, mov formats[web:2][web:4].
+**Impact:** Handles concurrent users with seamless media processing across jpg, png, zip, ts, mov formats
 
 ---
 
