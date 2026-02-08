@@ -16,7 +16,7 @@
 
 ## 🚀 About 
 
-I build **production-grade infrastructure** that actually stays up. Running a self-hosted **K3s cluster** with **130+ days uptime**, zero downtime deployments, and dual ISP auto-failover (800+150 Mbps) ensuring **99.99% network reliability** .
+I build **production-grade infrastructure** that actually stays up. Running a self-hosted **k8s cluster** with **130+ days uptime**, zero downtime deployments, and dual ISP auto-failover (800+150 Mbps) ensuring **99.99% network reliability** .
 
 - 🔥 **18+ production full-stack apps** live and serving real users
 - ⚡ **4.2TB+ media processed** in the last 18 days with sub-150ms latency
@@ -27,6 +27,71 @@ I build **production-grade infrastructure** that actually stays up. Running a se
 Currently building a **DSA Code Execution System** with Docker sandboxing and multi-language support (Java, Python, C++).
 
 ---
+
+🚀 Flagship Project – IndieLink
+🌐 Live Platform: https://indielink.in
+
+IndieLink is a full-stack creator platform built entirely from scratch — designed for creators, freelancers, and professionals who want full control over their public identity.
+
+Not just a link-in-bio tool.
+A production-grade social + analytics + real-time system.
+
+⚡ Key Capabilities
+
+🎨 9 Custom Themes + Full CSS Control
+
+🔗 Public profiles with custom slugs (CSR + SSR hydration)
+
+📊 Advanced analytics (heatmaps, referrers, device, OS, geo distribution)
+
+💬 Real-time WebSocket chat (file sharing up to 30MB)
+
+👥 Social network (friend requests + nested comments)
+
+🔎 AI-powered Elasticsearch global search
+
+🔐 Enterprise-grade authentication & split-JWT architecture
+
+📱 Telegram-style session manager
+
+🔔 Real-time login alerts with device/IP intelligence
+
+💳 Secure payments via Razorpay + Razorpay X
+
+🛡 Security Architecture
+
+Split JWT (HTTP-only cookies)
+
+AES-GCM encryption for sensitive fields
+
+bcrypt password hashing
+
+Redis token blacklisting
+
+CSRF double-cookie strategy
+
+Rate limiting per endpoint
+
+TLS 1.3 via Cloudflare Tunnel
+
+Hosted on k8s cluster (self-managed)
+
+🏗 Tech Stack
+
+React + Vite • Spring Boot • Jakarta EE • WebSockets
+Elasticsearch • Redis • PostgreSQL • Docker • k8s • Calico • Cloudflare
+
+📊 Production Impact
+
+18+ real-world systems built prior to IndieLink
+
+Thousands of lines of production code
+
+Real-time analytics engine
+
+Fully self-hosted infrastructure
+
+Zero security incidents
 
 ## 💻 Tech Arsenal
 
@@ -82,6 +147,8 @@ https://sailik.cloud  is Down for some day . you can visit https://indielink.in/
 All systems are **live** and serving real traffic at [sailik.cloud](https://sailik.cloud/) 
 
 Full architectural breakdowns and technical PDFs for each project are available at [sailik.cloud](https://sailik.cloud) �
+
+
 
 ### 🎯 Real-Time Chat & Friendship System
 **Tech Stack:** Spring Boot • Jakarta WebSocket • Redis • Split-JWT
@@ -153,7 +220,7 @@ Full architectural breakdowns and technical PDFs for each project are available 
 - 👥 1K+ Concurrent User Tests Passed
 - 📸 13,862 Images Processed
 - 📦 20,000+ Files Handled
-- ⏰ 130+ Days K3s Uptime (99.99%)
+- ⏰ 130+ Days k8s Uptime (99.99%)
 - 🚀 Zero Downtime Deployments
 
 
@@ -170,7 +237,7 @@ Adamas University, Kolkata, India | 2021 – 2023
 
 I'm always open to discussing **backend architecture**, **DevOps**, **Kubernetes**, and **scalable system design**.
 
-- 🌐 Portfolio: [sailik.cloud](https://sailik.cloud/)
+- 🌐 Portfolio: [sailik.cloud](https://portfolio.sailik.cloud/)
 - 💼 LinkedIn: [sailiksarkar](https://www.linkedin.com/in/sailiksarkar/)
 - 📧 Email: sarkarsailik1995@gmail.com
 - 📍 Location: Kolkata, India
