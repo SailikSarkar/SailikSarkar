@@ -14,76 +14,47 @@
 
 ---
 
+### 🚀 Flagship Project – IndieLink
+**Tech Stack:** Spring Boot • React • PostgreSQL • Redis • Elasticsearch • WebSockets • Docker • Kubernetes • Calico • Cloudflare
 
-
-🚀 Flagship Project – IndieLink
-🌐 Live Platform: https://indielink.in
+🌐 Live Platform: https://indielink.in  
 
 IndieLink is a full-stack creator platform built entirely from scratch — designed for creators, freelancers, and professionals who want full control over their public identity.
 
-Not just a link-in-bio tool.
+Not just a link-in-bio tool.  
 A production-grade social + analytics + real-time system.
 
-⚡ Key Capabilities
+- 🎨 9 Custom Themes + Full CSS Control
+- 🔗 Public profiles with custom slugs (CSR + SSR hydration)
+- 📊 Advanced analytics (heatmaps, referrers, device, OS, geo distribution)
+- 💬 Real-time WebSocket chat (file sharing up to 30MB)
+- 👥 Social network (friend requests + nested comments)
+- 🔎 AI-powered Elasticsearch global search
+- 🔐 Enterprise-grade authentication & split-JWT architecture
+- 📱 Telegram-style session manager
+- 🔔 Real-time login alerts with device/IP intelligence
+- 💳 Secure payments via Razorpay + Razorpay X
 
-🎨 9 Custom Themes + Full CSS Control
+**Security Architecture**
 
-🔗 Public profiles with custom slugs (CSR + SSR hydration)
+- 🛡️ Split-JWT (HTTP-only cookies)
+- 🔐 AES-GCM encryption for sensitive fields
+- 🔑 bcrypt password hashing
+- 🚫 Redis token blacklisting
+- 🧾 CSRF double-cookie strategy
+- 📊 Endpoint-level rate limiting
+- 🌍 TLS 1.3 via Cloudflare Tunnel
+- 🧱 Calico default deny-all network policies
+- 🔑 mTLS service-to-service encryption
+- 🧬 SPIFFE workload identity
+- 💾 Longhorn distributed persistent storage
+- 🔄 Velero automated cluster backups
 
-📊 Advanced analytics (heatmaps, referrers, device, OS, geo distribution)
-
-💬 Real-time WebSocket chat (file sharing up to 30MB)
-
-👥 Social network (friend requests + nested comments)
-
-🔎 AI-powered Elasticsearch global search
-
-🔐 Enterprise-grade authentication & split-JWT architecture
-
-📱 Telegram-style session manager
-
-🔔 Real-time login alerts with device/IP intelligence
-
-💳 Secure payments via Razorpay + Razorpay X
-
-🛡 Security Architecture
-
-- Split JWT (HTTP-only cookies)
-
-- AES-GCM encryption for sensitive fields
-
-- bcrypt password hashing
-
-- Redis token blacklisting
-
-- CSRF double-cookie strategy
-
-- Rate limiting per endpoint
-
-- TLS 1.3 via Cloudflare Tunnel
-
-- Hosted on k8s cluster (self-managed)
-
-🏗 Tech Stack
-
-React + Vite • Spring Boot • Jakarta EE • WebSockets
-Elasticsearch • Redis • PostgreSQL • Docker • k8s • Calico • Cloudflare
-
-📊 Production Impact
-
-- 18+ real-world systems built prior to IndieLink
-
-- Thousands of lines of production code
-
-- Real-time analytics engine
-
-- Fully self-hosted infrastructure
-
-- Zero security incidents
-  
-- Full observability stack (Prometheus + Grafana) with real-time alerting
+**Impact:** Fully self-hosted production platform • Zero security incidents • Real-time analytics engine • Observability stack (Prometheus + Grafana + Loki) • Hardened zero-trust Kubernetes architecture
 
 ---
+
+ 
 
  ## 🚀 About 
 
