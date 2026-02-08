@@ -14,19 +14,7 @@
 
 ---
 
-## 🚀 About 
 
-I build **production-grade infrastructure** that actually stays up. Running a self-hosted **k8s cluster** with **130+ days uptime**, zero downtime deployments, and dual ISP auto-failover (800+150 Mbps) ensuring **99.99% network reliability** .
-
-- 🔥 **18+ production full-stack apps** live and serving real users
-- ⚡ **4.2TB+ media processed** in the last 18 days with sub-150ms latency
-- 🎯 **6+ enterprise systems** with split-JWT security, Elasticsearch, Redis, WebSockets
-- 🛠️ Designed authentication subsystems that defend against XSS, CSRF, and token theft
-- 📊 Full observability stack (Prometheus + Grafana) with real-time alerting
-
-Currently building a **DSA Code Execution System** with Docker sandboxing and multi-language support (Java, Python, C++).
-
----
 
 🚀 Flagship Project – IndieLink
 🌐 Live Platform: https://indielink.in
@@ -92,6 +80,25 @@ Elasticsearch • Redis • PostgreSQL • Docker • k8s • Calico • Cloudfl
 - Fully self-hosted infrastructure
 
 - Zero security incidents
+  
+- Full observability stack (Prometheus + Grafana) with real-time alerting
+
+---
+
+ ## 🚀 About 
+
+I design and operate self-hosted, production-grade infrastructure with a focus on reliability, security, and observability.
+
+- 🌐 Self-managed Kubernetes cluster with long-running uptime and zero-downtime deployments
+- ⚡ **4.2TB+ media processed** in the last 18 days with sub-150ms latency
+- 🎯 **6+ enterprise systems** with split-JWT security, Elasticsearch, Redis, WebSockets
+- 🛠️ Designed authentication subsystems that defend against XSS, CSRF, and token theft
+- 📊 Full observability stack (Prometheus + Grafana) with real-time alerting
+
+Currently building autonomous AI systems focused on incident reasoning and self-auditing infrastructure decisions.
+
+---
+
 
 ## 💻 Tech Arsenal
 
