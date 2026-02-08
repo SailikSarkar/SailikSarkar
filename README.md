@@ -212,7 +212,7 @@ Adamas University, Kolkata, India | 2021 – 2023
 
 I'm always open to discussing **backend architecture**, **DevOps**, **Kubernetes**, and **scalable system design**.
 
-- 🌐 Portfolio: [sailik.cloud](https://portfolio.sailik.cloud/)
+- 🌐 Portfolio: [portfolio.sailik.cloud](https://portfolio.sailik.cloud/)
 - 💼 LinkedIn: [sailiksarkar](https://www.linkedin.com/in/sailiksarkar/)
 - 📧 Email: sarkarsailik1995@gmail.com
 - 📍 Location: Kolkata, India
