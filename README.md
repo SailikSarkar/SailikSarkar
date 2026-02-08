@@ -60,21 +60,21 @@ A production-grade social + analytics + real-time system.
 
 🛡 Security Architecture
 
-Split JWT (HTTP-only cookies)
+- Split JWT (HTTP-only cookies)
 
-AES-GCM encryption for sensitive fields
+- AES-GCM encryption for sensitive fields
 
-bcrypt password hashing
+- bcrypt password hashing
 
-Redis token blacklisting
+- Redis token blacklisting
 
-CSRF double-cookie strategy
+- CSRF double-cookie strategy
 
-Rate limiting per endpoint
+- Rate limiting per endpoint
 
-TLS 1.3 via Cloudflare Tunnel
+- TLS 1.3 via Cloudflare Tunnel
 
-Hosted on k8s cluster (self-managed)
+- Hosted on k8s cluster (self-managed)
 
 🏗 Tech Stack
 
@@ -83,15 +83,15 @@ Elasticsearch • Redis • PostgreSQL • Docker • k8s • Calico • Cloudfl
 
 📊 Production Impact
 
-18+ real-world systems built prior to IndieLink
+- 18+ real-world systems built prior to IndieLink
 
-Thousands of lines of production code
+- Thousands of lines of production code
 
-Real-time analytics engine
+- Real-time analytics engine
 
-Fully self-hosted infrastructure
+- Fully self-hosted infrastructure
 
-Zero security incidents
+- Zero security incidents
 
 ## 💻 Tech Arsenal
 
